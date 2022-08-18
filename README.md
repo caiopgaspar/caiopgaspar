@@ -7,14 +7,15 @@ Linguagens C#, C, Python;
 Desenvolvimento web com HTML, CSS e Javascript;
 Banco de Dados com SQL;
 Programação orientada a objetos com C#;
-Desenvolvimento rápido de aplicações.
+Desenvolvimento rápido de aplicações;
+Versionamento com Git.
 
 ##
 
 <div align="center">
   <a href="https://github.com/caiopgaspar">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=caiopgaspar&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiopgaspar&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=caiopgaspar&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiopgaspar&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 <div style="display: inline_block"><br>
