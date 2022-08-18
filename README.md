@@ -1,4 +1,7 @@
-### Hi there 👋
+### Olá, eu sou o Caio!
+##
+Sou estudante de Análise e Desenvolvimento de Sistemas
+
 
 <div align="center">
   <a href="https://github.com/caiopgaspar">
