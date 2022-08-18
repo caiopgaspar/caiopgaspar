@@ -1,7 +1,13 @@
 ### Olá, eu sou o Caio!
-##
+#
 Sou estudante de Análise e Desenvolvimento de Sistemas
-
+##
+# Aprendendo:
+Linguagens C#, C, Python;
+Desenvolvimento web com HTML, CSS e Javascript;
+Banco de Dados com SQL;
+Programação orientada a objetos com C#;
+Desenvolvimento rápido de aplicações.
 
 <div align="center">
   <a href="https://github.com/caiopgaspar">
