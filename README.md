@@ -1,8 +1,9 @@
 ### Olá, eu sou o Caio!
 #
-Sou estudante de Análise e Desenvolvimento de Sistemas
+Sou desenvolvedor de software em formação, estudante de programação por cursos livres, projetos independentes e na graduação tecnológica de Análise e Desenvolvimento de Sistemas.
 ##
 #### Aprendendo:
+Ecossistema .Net com C#, POO, Bancos de Dados Relacionais, Entity Framework, ASP.NET MVC;
 Linguagens C#, C, Python;
 Desenvolvimento web com HTML, CSS e Javascript;
 Banco de Dados com SQL;
