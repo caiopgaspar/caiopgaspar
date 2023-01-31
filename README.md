@@ -3,13 +3,16 @@
 Sou desenvolvedor de software em formação; estudante de programação por cursos livres, projetos independentes e na graduação tecnológica de Análise e Desenvolvimento de Sistemas.
 ##
 #### Aprendendo:
-Ecossistema .NET com C#, POO, Bancos de Dados Relacionais, Entity Framework, ASP.NET MVC;
-Linguagens C#, C, Python;
+Ecossistema .NET; #
+Entity Framework; #
+ASP.NET MVC; #
+Banco de Dados Relacionais com SQL; #
+Linguagens C#, C, Python; #
+Programação orientada a objetos; #
+Desenvolvimento rápido de aplicações; #
+Versionamento com Git; #
+Azure DevOps; #
 Desenvolvimento web com HTML, CSS e Javascript;
-Banco de Dados com SQL;
-Programação orientada a objetos com C#;
-Desenvolvimento rápido de aplicações;
-Versionamento com Git.
 
 ##
 
