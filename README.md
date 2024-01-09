@@ -2,6 +2,17 @@
 #
 Sou desenvolvedor de software em formação; estudante de programação por cursos livres, projetos independentes e na graduação tecnológica de Análise e Desenvolvimento de Sistemas.
 ##
+#### Stacks:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+
+<!--
 #### Aprendendo:
 - Ecossistema .NET;
 
@@ -22,22 +33,12 @@ Sou desenvolvedor de software em formação; estudante de programação por curs
 - Azure DevOps;
 
 - Desenvolvimento web com HTML, CSS e Javascript;
-
+-->
 ##
 
 <div align="center">
   <a href="https://github.com/caiopgaspar">  
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiopgaspar&layout=compact&langs_count=7&theme=dark"/>
-</div>
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Dot-net" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg">
-  <img align="center" alt="Git" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
-  
 </div>
 
   ##
