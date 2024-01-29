@@ -1,6 +1,6 @@
 ### Olá, eu sou o Caio!
 #
-Sou desenvolvedor de software em formação; estudante de programação por cursos livres, projetos independentes e na graduação tecnológica de Análise e Desenvolvimento de Sistemas.
+Sou desenvolvedor de software atuando por meio de estudos e projetos independentes, cursos livres e na graduação tecnológica de Análise e Desenvolvimento de Sistemas.
 ##
 #### Stacks:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
