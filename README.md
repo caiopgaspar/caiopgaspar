@@ -1,8 +1,7 @@
-### Olá, eu sou o Caio!
-#
-Sou um desenvolvedor de software apaixonado por tecnologia. Desenvolvo projetos nos quais utilizo principalmente o ecossistema .NET com C#.
+### Seja bem vindo(a)!
+
 ##
-#### Stacks:
+
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![ASP.NET](https://img.shields.io/badge/ASP.NET-1C2D99?style=for-the-badge&logoColor=white)
